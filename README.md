@@ -1,5 +1,5 @@
 # Tech Store Website
-#Overview
+## Overview
 The Tech Store Website is a fully responsive front-end project developed to simulate an online technology products store.
 It provides a clean user interface for product presentation and a functional contact form incorporating client-side validation.
 
