@@ -73,6 +73,7 @@ Open a pull request describing your proposed changes.
 
 ## Author
 Faith Gikura
-GitHub: @FaithGikura
+GitHub: FaithGikura
 Email: faithnjerigikura@gmail.com
+deploymeny:https://tech2store.netlify.app/
 
