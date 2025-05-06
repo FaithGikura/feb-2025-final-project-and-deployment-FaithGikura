@@ -5,14 +5,14 @@ It provides a clean user interface for product presentation and a functional con
 
 This project demonstrates skills in structuring websites with semantic HTML, styling with CSS Grid and Flexbox, and adding interactivity with JavaScript.
 
-#Technologies Used
+# Technologies Used
 HTML5 – for structuring the content.
 
 CSS3 – for layout, design, and responsiveness.
 
 JavaScript – for client-side form validation and user interaction.
 
-#Features
+# Features
 Responsive layout compatible with mobile, tablet, and desktop devices.
 
 Contact form with real-time validation:
@@ -32,9 +32,6 @@ Open the index.html file directly in a web browser.
 No additional installations or dependencies are required.
 
 File Structure
-bash
-Copy
-Edit
 ├── index.html
 ├── css/
 │   └── style.css
