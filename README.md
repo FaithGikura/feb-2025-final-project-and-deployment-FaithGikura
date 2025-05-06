@@ -1,18 +1,18 @@
-Tech Store Website
-Overview
+## Tech Store Website
+#Overview
 The Tech Store Website is a fully responsive front-end project developed to simulate an online technology products store.
 It provides a clean user interface for product presentation and a functional contact form incorporating client-side validation.
 
 This project demonstrates skills in structuring websites with semantic HTML, styling with CSS Grid and Flexbox, and adding interactivity with JavaScript.
 
-Technologies Used
+#Technologies Used
 HTML5 – for structuring the content.
 
 CSS3 – for layout, design, and responsiveness.
 
 JavaScript – for client-side form validation and user interaction.
 
-Features
+#Features
 Responsive layout compatible with mobile, tablet, and desktop devices.
 
 Contact form with real-time validation:
@@ -23,12 +23,8 @@ Displays appropriate error messages when fields are invalid.
 
 Organized file structure to enhance maintainability and scalability.
 
-Project Setup
+# Project Setup
 To view the project locally:
-
-bash
-Copy
-Edit
 git clone https://github.com/FaithGikura/feb-2025-final-project-and-deployment-FaithGikura.git
 cd feb-2025-final-project-and-deployment-FaithGikura
 Open the index.html file directly in a web browser.
@@ -55,7 +51,7 @@ js/script.js — JavaScript for form validation.
 
 images/ — Contains all product and asset images.
 
-How It Works
+@How It Works
 The homepage displays a collection of tech products in a grid layout.
 
 Users can browse product cards and access the contact form.
@@ -66,10 +62,6 @@ Contribution Guidelines
 Contributions to enhance the project are welcome.
 
 To contribute:
-
-bash
-Copy
-Edit
 # Fork the repository
 # Create a new branch
 git checkout -b feature/your-feature-name
@@ -82,17 +74,8 @@ git push origin feature/your-feature-name
 Open a pull request describing your proposed changes.
 
 
-Author
+# Author
 Faith Gikura
 GitHub: @FaithGikura
 Email: faithnjerigikura@gmail.com
 
-✅ Now everything is Markdown-correct:
-
-# for main title
-
-## for section titles
-
-Indented bash commands
-
-Clean spacing
