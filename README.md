@@ -48,7 +48,7 @@ js/script.js — JavaScript for form validation.
 
 images/ — Contains all product and asset images.
 
-@How It Works
+## How It Works
 The homepage displays a collection of tech products in a grid layout.
 
 Users can browse product cards and access the contact form.
