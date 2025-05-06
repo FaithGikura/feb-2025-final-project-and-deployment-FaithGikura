@@ -1,18 +1,18 @@
-## Tech Store Website
+# Tech Store Website
 #Overview
 The Tech Store Website is a fully responsive front-end project developed to simulate an online technology products store.
 It provides a clean user interface for product presentation and a functional contact form incorporating client-side validation.
 
 This project demonstrates skills in structuring websites with semantic HTML, styling with CSS Grid and Flexbox, and adding interactivity with JavaScript.
 
-# Technologies Used
+## Technologies Used
 HTML5 – for structuring the content.
 
 CSS3 – for layout, design, and responsiveness.
 
 JavaScript – for client-side form validation and user interaction.
 
-# Features
+## Features
 Responsive layout compatible with mobile, tablet, and desktop devices.
 
 Contact form with real-time validation:
@@ -23,7 +23,7 @@ Displays appropriate error messages when fields are invalid.
 
 Organized file structure to enhance maintainability and scalability.
 
-# Project Setup
+## Project Setup
 To view the project locally:
 git clone https://github.com/FaithGikura/feb-2025-final-project-and-deployment-FaithGikura.git
 cd feb-2025-final-project-and-deployment-FaithGikura
@@ -59,19 +59,19 @@ Contribution Guidelines
 Contributions to enhance the project are welcome.
 
 To contribute:
-# Fork the repository
-# Create a new branch
+## Fork the repository
+## Create a new branch
 git checkout -b feature/your-feature-name
 
-# Make changes and commit
+##Make changes and commit
 git commit -m "Add your feature"
 
-# Push to your fork
+## Push to your fork
 git push origin feature/your-feature-name
 Open a pull request describing your proposed changes.
 
 
-# Author
+## Author
 Faith Gikura
 GitHub: @FaithGikura
 Email: faithnjerigikura@gmail.com
